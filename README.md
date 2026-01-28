@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to GitHub Achievement Viewer</h1>
-
 <img src="images/misc/banner.jpg" alt="Banner Image">
 
 <h2 align="center">Here you can see all the achievements and badges available on GitHub!</h2>
