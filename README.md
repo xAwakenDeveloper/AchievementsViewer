@@ -62,3 +62,11 @@
 | ![security-bug-bounty-hunter-dark](/images/highlights/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](/images/highlights/Security-Bug-Bounty-Hunter_DarkMode.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
 | ![github-campus-expert-dark](/images/highlights/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only)![github-campus-expert-light](/images/highlights/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
 | ![security-advisory-credit-dark](/images/highlights/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only)![security-advisory-credit-light](/images/highlights/Security-Advisory-Credit_DarkMode.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
+
+<h1 align="center">Thanks for checking out this repository!</h1>
+
+<h4 align="center">If it helped consider leaving a star!</h4>
+
+<h4 align="center">You can also check out my other repositories!</h4>
+
+<h4 align="center">⭐⭐⭐</h4>
